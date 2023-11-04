@@ -1,0 +1,36 @@
+
+.footer-img{
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
+.footer-img .FB{
+    background-image: url(FB.png);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+}
+.footer-img .WP{
+    background-image: url(whatsapp.webp);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+}
+.footer-img .LD{
+    background-image: url(linkedin.png);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+}
+.footer-img .TW{
+    background-image: url(twitter.png);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+}
+.footer-img .IN{
+    background-image: url(instagram.png);
+    background-size: cover;
+    height: 40px;
+    width: 40px;
+}
